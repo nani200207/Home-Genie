@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430793795937",
+    "project_id": "home-genie-d8894",
+    "storage_bucket": "home-genie-d8894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430793795937:android:21918089cc6a1120647d20",
+        "android_client_info": {
+          "package_name": "com.example.homegenie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430793795937-ikmepb42pdr6h7sitdj64k7a9tp4akeh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homegenie",
+            "certificate_hash": "44697d66a588549df5b409482a2223da7d79be93"
+          }
+        },
+        {
+          "client_id": "430793795937-5rrc8b0n56lesbei2mcm45iul99e3sct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu7oH3nxtHxVsiFrkyJrZSk2XWR7mQ1TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430793795937-5rrc8b0n56lesbei2mcm45iul99e3sct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
